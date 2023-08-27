@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555340778090",
+    "project_id": "crew-brew-a3157",
+    "storage_bucket": "crew-brew-a3157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555340778090:android:5650f09e367cd2784cd813",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555340778090-7jsti2a9bjg3em0fs94hkvddh4orsiop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg2K3nb2a9pHvoZCQP-v1MTP1Udpr3ZUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555340778090-7jsti2a9bjg3em0fs94hkvddh4orsiop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
